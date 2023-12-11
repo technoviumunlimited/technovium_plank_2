@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c1c8kqvjbejb6"
+path="res://.godot/imported/badkamer.obj-edb595ccc41dd93ab3e6daa438820b97.mesh"
+
+[deps]
+
+files=["res://.godot/imported/badkamer.obj-edb595ccc41dd93ab3e6daa438820b97.mesh"]
+
+source_file="res://assets/badkamer.obj"
+dest_files=["res://.godot/imported/badkamer.obj-edb595ccc41dd93ab3e6daa438820b97.mesh", "res://.godot/imported/badkamer.obj-edb595ccc41dd93ab3e6daa438820b97.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
